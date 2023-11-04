@@ -1,3 +1,5 @@
+[![Stand With Palestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/banner-no-action.svg)](https://TheBSD.github.io/StandWithPalestine/)
+
 # Bcrypt-cli
 A Node.js command-line interface (CLI) application that generates a bcrypt hash of a user-provided password.
 
